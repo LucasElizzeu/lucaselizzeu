@@ -1,4 +1,4 @@
-## Hello World! I'm Lucas Elizeu, i have 22 years old and am studyng of Science Computing
+## Hello World! I'm Lucas Elizeu, i have 24 years old and am studyng of Science Computing
 
 - 🌱 I’m currently learning JavaScript, Node, React, Html, CSS, ApiRest, Restful, C#, Python
 - 😄 Pronouns: He/Him
